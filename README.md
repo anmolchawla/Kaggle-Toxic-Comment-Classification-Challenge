@@ -35,3 +35,8 @@ Some of the following steps will be followed during the course of the project.
 
 - ROC curves
 - Hamming score for Multilabel Evaluation
+
+
+Credits for certain code snipets are given at the base of the code. 
+
+Project done in collaboration with Nikhit Mago and Andrew Mclean. 
